@@ -1,12 +1,12 @@
 body{
-    background-color: bisque;
+    background-color: rgb(212, 85, 140);
     }
     #container {
     display: flex;
     }
     .cartao{
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgba(214, 53, 209, 0.436);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
@@ -16,7 +16,7 @@ body{
     height: 100%;
     }
     .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(250, 48, 139);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
