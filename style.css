@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(215, 42, 117);
+    background: url('bg-desktop.webp');
     }
+
     #container {
     display: flex;
     }
