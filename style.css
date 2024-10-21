@@ -7,7 +7,7 @@ body{
     }
     .cartao{
     margin: 1rem 1rem;
-    background-color: rgba(213, 253, 248, 0.745);
+    background-color: rgba(99, 190, 180, 0.745);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
