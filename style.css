@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/azul-codigo-binario-3d-vector-linha-de-fundo-abstrato-de-informati-400-35559254.jpg');
+    background: url('img.azul.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(63, 66, 154);
     color: white;
     position: fixed;
     bottom: 0;
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('img.azul.jpg') no-repeat cover;
     }
 
     .cartao {
@@ -109,12 +109,4 @@ footer p {
     .cartao__conteudo h3 {
         font-size: 3vw;
     }
-
-    .cartao__conteudo p {
-        font-size: 3.8vw;
-    }
 }
-    .cartao__conteudo p {
-        font-size: 3.8vw;
-    }
-
