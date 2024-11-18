@@ -1,6 +1,6 @@
 criaCartao(
     'espanhol',
-    'cual es la capital de mexico?',
+    'cual es la capital del mexico?',
     'Ciudad de México'
 )
 
