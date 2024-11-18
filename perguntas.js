@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'espanhol',
+    'cual es la capital de mexico?',
+    'Ciudad de México'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'oque el ninõ?',
+    'é caracterizado pelo aquecimento anormal e persistente da superfície do Oceano Pacífico na linha do Equador'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Português',
+    'oque é substantivo?',
+    'classe de palavras usada para dar nome aos seres, objetos, fenômenos etc.'
+)
+
+criaCartao(
+    'Biologia',
+    'qual sistema comanda o sangue?',
+    'sistema circulatório'
+)
+
+criaCartao(
+    'matemática',
+    'quanto é 180+180?',
+    '360'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'como fala meu nome é... em inglês?',
+    'my name is ... *seu nome*'
 )
