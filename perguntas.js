@@ -1,35 +1,35 @@
 criaCartao(
-    'espanhol',
-    'cual es la capital del mexico?',
-    'Ciudad de México'
+    '1',
+    'Qual dia é comemorado a conciência negra? ',
+    '20 de novembro!'
 )
 
 criaCartao(
-    'Geografia',
-    'oque el ninõ?',
-    'é caracterizado pelo aquecimento anormal e persistente da superfície do Oceano Pacífico na linha do Equador'
+    '2',
+    'O que é a Consciência Negra?',
+    'É o movimento que busca valorizar a cultura, a história e a luta do povo negro.'
 )
 
 criaCartao(
-    'Português',
-    'oque é substantivo?',
-    'classe de palavras usada para dar nome aos seres, objetos, fenômenos etc.'
+    '3',
+    'Por que 20 de novembro é o Dia da Consciência Negra?',
+    'É a data da morte de Zumbi dos Palmares, símbolo da resistência negra.'
 )
 
 criaCartao(
-    'Biologia',
-    'qual sistema comanda o sangue?',
-    'sistema circulatório'
+    '4',
+    'Qual a importância de discutir a Consciência Negra nas escolas?',
+    'Para combater o racismo e valorizar a cultura afro-brasileira.'
 )
 
 criaCartao(
-    'matemática',
-    'quanto é 180+180?',
-    '360'
+    '5',
+    'Quais são os principais desafios da população negra no Brasil?',
+    'Desigualdade social, racismo, violência e acesso limitado a oportunidades.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'como fala meu nome é... em inglês?',
-    'my name is ... *seu nome*'
+    '6',
+    'Como a Consciência Negra contribui para a sociedade?',
+    'Ela promove o respeito à diversidade e a igualdade racial.'
 )
